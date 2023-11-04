@@ -1,0 +1,20 @@
+.header-component {
+  border: 1px solid red;
+  width: 550px;
+  max-width: 550px;
+  height: 55px;
+  max-height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F55A5A;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.header-component>p {
+  font-size: 15px;
+  font-weight: medium;
+  color: white;
+  padding-left: 10px;
+}
